@@ -54,7 +54,7 @@
     "jasmine": "^2.3.2",
     "jshint": "^2.9.2",
     "jshint-stylish": "^2.0.1",
-    "karma": "^0.13.15",
+    "karma": "^6.4.3",
     "karma-chrome-launcher": "^0.2.2",
     "karma-jasmine": "^0.3.6",
     "main-bower-files": "~2.9.0",
